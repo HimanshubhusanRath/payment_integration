@@ -1,0 +1,8 @@
+server:
+  port: 9090
+
+# paypal properties
+paypal:
+  mode: sandbox
+  clientId: AWNkjNbWptkC5Dd96NnZy_MEQsDzRqSC8MNhXon46-FMP8zK7oRXmMhoazwJjkBjxaYKsK7aUejzpWSf
+  clientSecret: EOTo8F84JPLP-vYxIeoDSpwnB8esPeIbt_N-ka--uOLAg5VX3emJWcv2eZz_R4NGKVZzS7_nvQBGMcBm
